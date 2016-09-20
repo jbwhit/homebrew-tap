@@ -11,6 +11,4 @@ class Automation < Formula
     bin.install "svds-templatenb"
   end
 
-  test do
-  end
 end
