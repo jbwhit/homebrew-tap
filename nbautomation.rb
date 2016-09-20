@@ -1,4 +1,4 @@
-class Automation < Formula
+class Nbautomation < Formula
   desc "A series of scripts that make your workflow faster and better!"
   homepage "https://github.com/jbwhit/automation"
   url "https://github.com/jbwhit/automation/archive/0.0.3.zip"
