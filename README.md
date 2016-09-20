@@ -5,5 +5,5 @@ To install
 
 ```bash
 brew tap jbwhit/tap 
-brew install automation
+brew install nb3automation
 ```
